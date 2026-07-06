@@ -100,8 +100,6 @@ Gill carries on generations of tradition in his family as a hydrologist speciali
 
 # Ichabod
 
-## img: /images/ichabod_tn.svg
-
 Operations supervisor Ichabod is unwavering in adherence to the perfection of order and function. Using inborn impassiveness to distracting influences, Ichabod has led several teams to operational distinction with the advantage of being able to successfully teach precise hoverboard maneuverability.
 
 | Name                           | Value                                                                                      |
